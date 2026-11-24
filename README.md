@@ -4,11 +4,11 @@
 
 # Ridiculous at First Glance, Real by the Second
 
-One-sentence bizarre startup pitch for the make.fun bounty "Ridiculous at First Glance, Real by the Second". The program `main.py` writes a single sentence to `/output/entry.txt` — a startup that rents hungry goats to law firms to eat confidential files, then sells the evidence as garden mulch.
+One-sentence bizarre startup pitch for the make.fun bounty "Ridiculous at First Glance, Real by the Second". The program `main.py` writes a single sentence to `/output/entry.txt` — a breakup agency that hires actors to dump your partner for you, $300 a breakup, tears included.
 
 ## The line
 
-> We rent hungry goats to law firms to devour confidential files, then sell the evidence as premium garden mulch — document shredding with zero paper trail.
+> We hire actors to dump your partner for you — $300 a breakup, tears included — because nobody wants to be the villain in their own story.
 
 ## Run
 
@@ -17,4 +17,4 @@ python3 main.py
 cat /output/entry.txt
 ```
 
-Deterministic: no network, no randomness, no environment reads. The output is one sentence of 154 characters.
+Deterministic: no network, no randomness, no environment reads. The output is one sentence of 137 characters.
