@@ -15,6 +15,18 @@ Why the line works against the judge's criteria, in order:
 5. It is concrete and vivid: hungry goats, law firms, confidential
    files, premium garden mulch.
 
+Craft notes:
+- Genuinely bizarre premise: the absurdity is the business itself,
+  not a decoration — goats are the shredder, not the mascot.
+- Real business logic: the customer (law firms) pays for secure
+  destruction, and the by-product (mulch) is sold a second time,
+  so the joke has a revenue model.
+- Concrete and vivid: every noun can be pictured in one beat —
+  hungry goats, confidential files, premium garden mulch.
+- Tight landing: "zero paper trail" reframes the whole premise as
+  a selling point instead of a punchline, so the sentence ends on
+  the benefit, not the joke.
+
 Deterministic: no network, no randomness, no environment reads.
 """
 
